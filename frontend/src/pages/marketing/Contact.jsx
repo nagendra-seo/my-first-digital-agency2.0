@@ -17,7 +17,7 @@ export default function Contact() {
             </h1>
             <p className="mt-5 text-ink-soft">
               The fastest way to reach us is the free audit form below — it goes straight into our booking system and we&rsquo;ll follow up by email to confirm a time. Prefer email directly? Reach us at{" "}
-              <a href="mailto:hello@myfirstdigitalagency.example" className="font-semibold text-charcoal-900 underline decoration-gold-400">hello@myfirstdigitalagency.example</a>.
+              <a href="mailto:nagendra.seo@gmail.com" className="font-semibold text-charcoal-900 underline decoration-gold-400">nagendra.seo@gmail.com</a>.
             </p>
           </div>
           <div className="overflow-hidden rounded-2xl border border-charcoal-900/10 bg-white shadow-xl shadow-charcoal-900/10">
